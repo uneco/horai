@@ -11,11 +11,11 @@ describe Horai do
       Horai.normalize('ａｂｃｄｅ').should === 'abcde'
       Horai.normalize('ＡＢＣＤＥ').should === 'ABCDE'
     end
-    it "numeric kanji" do
-      pending "Yet implemented"
-      Horai.normalize('十五').should === '15'
-      Horai.normalize('十四万二千三百四十五').should === '142345'
-    end
+    # it "numeric kanji" do
+    #   pending "Yet implemented"
+    #   Horai.normalize('十五').should === '15'
+    #   Horai.normalize('十四万二千三百四十五').should === '142345'
+    # end
   end
   context 'parse absolute' do
     before :each do
@@ -53,6 +53,10 @@ describe Horai do
     it "single" do
       time = Horai.parse("10分後")
       time.to_s.should === (DateTime.now + 10.minute).to_s
+    end
+    it "tomorrow" do
+      time = Horai.parse("明日")
+      time.to_s.should === (DateTime.now + 1.day).to_s
     end
   end
 end
