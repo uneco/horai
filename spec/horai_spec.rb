@@ -19,21 +19,8 @@ describe Horai do
   end
   context 'parse absolute' do
     before :each do
-      @sample_date = DateTime.new(2012, 4, 11, 12, 45, 30)
+      @sample_date = DateTime.new(2012, 4, 11, 12, 45, 30, Rational(9, 24))
       @sample_text = @sample_date.strftime('%Y年%m月%d日の%H時%M分%S秒')
-    end
-    it "invalid unit" do
-      lambda {
-        Horai.parse_unit(@sample_text, :nyan)
-      }.should raise_error(ArgumentError)
-    end
-    it "valid unit" do
-      Horai.parse_unit(@sample_text, :year).should   === 2012
-      Horai.parse_unit(@sample_text, :month).should  === 4
-      Horai.parse_unit(@sample_text, :day).should    === 11
-      Horai.parse_unit(@sample_text, :hour).should   === 12
-      Horai.parse_unit(@sample_text, :minute).should === 45
-      Horai.parse_unit(@sample_text, :second).should === 30
     end
     it "single" do
       time = Horai.parse(@sample_text)
@@ -46,7 +33,6 @@ describe Horai do
       Horai.relative?("10分後").should be_true
       Horai.relative?("10分経ったら").should be_true
       Horai.relative?("10分したら").should be_true
-
       Horai.relative?("10分").should be_false
       Horai.relative?("10時10分").should be_false
     end
@@ -57,6 +43,18 @@ describe Horai do
     it "tomorrow" do
       time = Horai.parse("明日")
       time.to_s.should === (DateTime.now + 1.day).to_s
+    end
+    it "day after tomorrow" do
+      time = Horai.parse("明後日")
+      time.to_s.should === (DateTime.now + 2.day).to_s
+    end
+    it "yesterday" do
+      time = Horai.parse("昨日")
+      time.to_s.should === (DateTime.now - 1.day).to_s
+    end
+    it "day after" do
+      time = Horai.parse("10日後")
+      time.to_s.should === (DateTime.now + 10.day).to_s
     end
   end
 end
