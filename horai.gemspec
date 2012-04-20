@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "horai.gemspec",
     "lib/horai.rb",
     "lib/ja_number.rb",
     "spec/horai_spec.rb",
