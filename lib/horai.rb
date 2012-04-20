@@ -1,6 +1,5 @@
 # coding: utf-8
 
-require 'hashie'
 require 'active_support/time'
 require "ja_number"
 
@@ -188,20 +187,6 @@ class Horai
     return @filters if @filters
     register_filters
     @filters
-  end
-
-  def self.date_default
-    return @date_default if @date_default
-    time = Time.new(1970)
-    @date_default = Hashie::Mash.new({
-      year:   time.year,
-      month:  time.month,
-      day:    time.day,
-      hour:   time.hour,
-      minute: time.min,
-      second: time.sec,
-    })
-    return @date_default
   end
 
   def self.relative?(text)

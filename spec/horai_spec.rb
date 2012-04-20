@@ -14,7 +14,7 @@ def now (year = nil, month = nil, day = nil, hour = nil, minute = nil, second = 
 end
 
 describe Horai do
-  context 'normalization' do
+  context 'normalize' do
     it "number" do
       Horai.normalize('０１２３４').should === '01234'
     end
@@ -33,7 +33,7 @@ describe Horai do
       @sample_date = DateTime.new(2012, 4, 11, 12, 45, 30, Rational(9, 24))
       @sample_text = @sample_date.strftime('%Y年%m月%d日の%H時%M分%S秒')
     end
-    it "%Y年%m月%d日の%H時%M分%S秒" do
+    it "year, month, day, hour, minute, second" do
       time = Horai.parse(@sample_text)
       time.to_s.should === @sample_date.to_s
     end
@@ -79,10 +79,6 @@ describe Horai do
       Horai.relative?("10分").should be_false
       Horai.relative?("10時10分").should be_false
     end
-    it "single" do
-      time = Horai.parse("10分後")
-      time.to_s.should === (now + 10.minute).to_s
-    end
     it "tomorrow" do
       time = Horai.parse("明日")
       time.to_s.should === (now + 1.day).to_s
@@ -95,43 +91,47 @@ describe Horai do
       time = Horai.parse("昨日")
       time.to_s.should === (now - 1.day).to_s
     end
-    it "day after" do
+    it "numeric minute after" do
+      time = Horai.parse("10分後")
+      time.to_s.should === (now + 10.minute).to_s
+    end
+    it "numeric day after" do
       time = Horai.parse("10日後")
       time.to_s.should === (now + 10.day).to_s
     end
-    it "day and absolute time" do
+    it "tomorrow and absolute time" do
       time = Horai.parse("明日の10時")
       time.to_s.should === (now(nil, nil, nil, 10, 0, 0) + 1.day).to_s
     end
-    it "day after tomorrow and afternoon" do
-      time = Horai.parse("明後日の午後5時")
-      time.to_s.should === (now(nil, nil, nil, 17, 0, 0) + 2.day).to_s
+    it "tomorrow and afternoon" do
+      time = Horai.parse("明日の午後5時")
+      time.to_s.should === (now(nil, nil, nil, 17, 0, 0) + 1.day).to_s
     end
-    it "day after tomorrow and noon" do
-      time = Horai.parse("明後日の正午")
-      time.to_s.should === (now(nil, nil, nil, 12, 0, 0) + 2.day).to_s
+    it "tomorrow and noon" do
+      time = Horai.parse("明日の正午")
+      time.to_s.should === (now(nil, nil, nil, 12, 0, 0) + 1.day).to_s
     end
-    it "numeric day and absolute time" do
+    it "numeric day after and absolute time" do
       time = Horai.parse("3日後の12時")
       time.to_s.should === (now(nil, nil, nil, 12, 0, 0) + 3.day).to_s
     end
-    it "numeric day and absolute time" do
+    it "numeric day after and absolute time" do
       time = Horai.parse("3日後の12時45分")
       time.to_s.should === (now(nil, nil, nil, 12, 45, 0) + 3.day).to_s
     end
-    it "numeric day and relative time" do
+    it "numeric day after and relative time" do
       time = Horai.parse("3日12時間45分後")
       time.to_s.should === (now + 3.day + 12.hour + 45.minute).to_s
     end
-    it "half time" do
+    it "half time after" do
       time = Horai.parse("1時間半後")
       time.to_s.should === (now + 1.5.hour).to_s
     end
-    it "half minute" do
+    it "half minute after" do
       time = Horai.parse("1分半後")
       time.to_s.should === (now + 1.5.minute).to_s
     end
-    it "half hour and minute" do
+    it "half hour and half minute after" do
       time = Horai.parse("5時間半と1分半後")
       time.to_s.should === (now + 5.5.hour + 1.5.minute).to_s
     end
