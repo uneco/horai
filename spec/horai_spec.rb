@@ -102,6 +102,18 @@ describe Horai do
       time = Horai.parse("2000/10/20 12:30:40")
       time.to_s.should === now(2000, 10, 20, 12, 30, 40).to_s
     end
+    it "at YY (near current year)" do
+      time = Horai.parse("10年")
+      time.to_s.should === now(2010).to_s
+    end
+    it "at YY (near feature)" do
+      time = Horai.parse("30年")
+      time.to_s.should === now(2030).to_s
+    end
+    it "at YY (not near feature)" do
+      time = Horai.parse("90年")
+      time.to_s.should === now(1990).to_s
+    end
   end
 
   context 'parse relative' do

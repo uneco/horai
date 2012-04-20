@@ -42,7 +42,8 @@ class Horai
 
     # 年 (絶対)
     filter /(\d+)年/, :absolute do |text, matches, date|
-      date + datetime_delta(date, :year, matches[1].to_i)
+      year = year_normalize(matches[1].to_i)
+      date + datetime_delta(date, :year, year)
     end
 
     filter /一昨[々昨]年|さきおととし|いっさくさくねん/, :absolute do |text, matches, date|
@@ -145,10 +146,7 @@ class Horai
 
     # 年月日表現 (絶対)
     filter /(?<![\d\/-])(\d{1,2}|\d{4})#{dd}(\d{1,2})#{dd}(\d{1,2})(?!#{dd})/, :absolute do |text, matches, date|
-      year = matches[1].to_i
-      if year < 100
-        year += (now.year / 100).to_i * 100
-      end
+      year = year_normalize(matches[1].to_i)
 
       date += datetime_delta(date, :year,   year)
       date += datetime_delta(date, :month,  matches[2])
@@ -283,5 +281,17 @@ class Horai
       JaNumber::JaNumberParser::parse(match)
     end
     return normalized
+  end
+
+  def self.year_normalize(year)
+    if year < 100
+      year_xx = (now.year / 100).to_i
+      if (year_xx - year).abs < 50
+        year += year_xx * 100
+      else
+        year += (year_xx - 1) * 100
+      end
+    end
+    year
   end
 end
