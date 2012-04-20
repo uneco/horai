@@ -251,6 +251,8 @@ class Horai
     contexts = (normalized + "$").split(RELATIVE_KEYWORDS_PATTERN)
     date = now
 
+    filtered = false
+
     contexts.each_with_index do |context, index|
       if contexts.size >= 2 && index + 1 != contexts.size
         mode = :relative
@@ -261,12 +263,14 @@ class Horai
       self.filters.each do |filter|
         if (matches = context.match(filter[:pattern])) && filter[mode]
           date = filter[mode].call(normalized, matches, date)
+          filtered = true unless filtered
         end
       end
     end
 
     @now = nil
 
+    return nil unless filtered
     return date
   end
 
