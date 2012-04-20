@@ -29,6 +29,13 @@ describe Horai do
       Horai.normalize('百五十時間後').should === '150時間後'
     end
   end
+
+  context 'invalid cases' do
+    it 'not even one filter passed' do
+      Horai.parse("なにもなし").should be_nil
+    end
+  end
+
   context 'parse absolute' do
     before :each do
       @sample_date = DateTime.new(2012, 4, 11, 12, 45, 30, Rational(9, 24))
