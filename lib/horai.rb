@@ -4,8 +4,8 @@ require 'active_support/time'
 require "ja_number"
 
 class Horai
-  NORMALIZE_FROM = '０-９ａ-ｚＡ-Ｚ'
-  NORMALIZE_TO   = '0-9a-zA-Z'
+  NORMALIZE_FROM = '０-９ａ-ｚＡ-Ｚ：'
+  NORMALIZE_TO   = '0-9a-zA-Z:'
 
   AFTERNOON_PATTERN = /午後|ごご|夜|よる|(?<![a-z])pm(?![a-z])/i
   RELATIVE_KEYWORDS_PATTERN = (/(?<![明午])後(?![年月日])|(?:[経た]っ|し)たら/)
@@ -25,6 +25,22 @@ class Horai
   end
 
   def self.register_filters
+    # 時分表現 (絶対)
+    filter /(?<!\d)(\d{1,2}):(\d{2})(?!:)/, :absolute do |text, matches, date|
+      date += datetime_delta(date, :hour,   matches[1])
+      date += datetime_delta(date, :minute, matches[2])
+      date += datetime_delta(date, :second, 0)
+      date
+    end
+
+    # 時分秒表現 (絶対)
+    filter /(?<!\d)(\d{1,2}):(\d{2}):(\d{2})(?!:)/, :absolute do |text, matches, date|
+      date += datetime_delta(date, :hour,   matches[1])
+      date += datetime_delta(date, :minute, matches[2])
+      date += datetime_delta(date, :second, matches[3])
+      date
+    end
+
     # 時間 (絶対)
     filter /正午/, :absolute do |text, matches, date|
       date += datetime_delta(date, :hour,   12)

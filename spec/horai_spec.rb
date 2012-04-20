@@ -69,6 +69,14 @@ describe Horai do
       time = Horai.parse("10日の正午に")
       time.to_s.should === (now(nil, nil, 10, 12, 0, 0)).to_s
     end
+    it "at hh:mm" do
+      time = Horai.parse("10:10")
+      time.to_s.should === (now(nil, nil, nil, 10, 10, 0)).to_s
+    end
+    it "at hh:mm:ss" do
+      time = Horai.parse("10:10:10")
+      time.to_s.should === (now(nil, nil, nil, 10, 10, 10)).to_s
+    end
   end
 
   context 'parse relative' do
