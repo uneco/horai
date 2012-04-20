@@ -1,0 +1,3731 @@
+0
+0
+
+re
+re
+ab
+2012年04月11日の12時45分30秒 - re
+10分後 - re
+明日 - ab
+2012年04月11日の12時45分30秒 - ab
+10分後 - re
+明日 - ab
+2012年04月11日の12時45分30秒 - ab
+10分後 - re
+明日 - ab
+2012年04月11日の12時45分30秒 - ab
+10分後 - re
+明日 - ab
+2012年04月11日の12時45分30秒 - ab
+10分後 - re
+明日 - ab
+2012年04月11日の12時45分30秒 - ab
+10分後 - re
+明日 - ab
+2012年04月11日の12時45分30秒 - ab
+10分後 - re
+明日 - ab
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:昨日|きのう|さくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:今日|本日|きょう|ほんじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明日|あした|みょうじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明後日|あさって|みょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:先月|前月|せんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:今月|こんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:来月|らいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再[々再]来月|ささらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:一昨年|おととし|いっさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:去年|昨年|きょねん|さくねん)
+2012年04月11日の12時45分30秒 - (?-mix:今年|本年|ことし|ほんねん)
+2012年04月11日の12時45分30秒 - (?-mix:来年|明年|らいねん|みょうねん)
+2012年04月11日の12時45分30秒 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分後 - (?-mix:(\d+)秒)
+10分後 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+10分後 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+10分後 - (?-mix:昨日|きのう|さくじつ)
+10分後 - (?-mix:今日|本日|きょう|ほんじつ)
+10分後 - (?-mix:明日|あした|みょうじつ)
+10分後 - (?-mix:明後日|あさって|みょうごにち)
+10分後 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+10分後 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+10分後 - (?-mix:[先前][々先前]月|せんせんげつ)
+10分後 - (?-mix:先月|前月|せんげつ)
+10分後 - (?-mix:今月|こんげつ)
+10分後 - (?-mix:来月|らいげつ)
+10分後 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+10分後 - (?-mix:再[々再]来月|ささらいげつ)
+10分後 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+10分後 - (?-mix:一昨年|おととし|いっさくねん)
+10分後 - (?-mix:去年|昨年|きょねん|さくねん)
+10分後 - (?-mix:今年|本年|ことし|ほんねん)
+10分後 - (?-mix:来年|明年|らいねん|みょうねん)
+10分後 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+10分後 - (?-mix:明[々明]後年|みょうみょうごねん)
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分後 - (?-mix:(\d+)秒)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+明日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+明日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+明日 - (?-mix:昨日|きのう|さくじつ)
+明日 - (?-mix:今日|本日|きょう|ほんじつ)
+明日 - (?-mix:明日|あした|みょうじつ)
+明日 - (?-mix:明後日|あさって|みょうごにち)
+明日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+明日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+明日 - (?-mix:[先前][々先前]月|せんせんげつ)
+明日 - (?-mix:先月|前月|せんげつ)
+明日 - (?-mix:今月|こんげつ)
+明日 - (?-mix:来月|らいげつ)
+明日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+明日 - (?-mix:再[々再]来月|ささらいげつ)
+明日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+明日 - (?-mix:一昨年|おととし|いっさくねん)
+明日 - (?-mix:去年|昨年|きょねん|さくねん)
+明日 - (?-mix:今年|本年|ことし|ほんねん)
+明日 - (?-mix:来年|明年|らいねん|みょうねん)
+明日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+明日 - (?-mix:明[々明]後年|みょうみょうごねん)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:昨日|きのう|さくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:今日|本日|きょう|ほんじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明日|あした|みょうじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明後日|あさって|みょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:先月|前月|せんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:今月|こんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:来月|らいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再[々再]来月|ささらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:一昨年|おととし|いっさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:去年|昨年|きょねん|さくねん)
+2012年04月11日の12時45分30秒 - (?-mix:今年|本年|ことし|ほんねん)
+2012年04月11日の12時45分30秒 - (?-mix:来年|明年|らいねん|みょうねん)
+2012年04月11日の12時45分30秒 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+10分後 - (?-mix:(\d+)秒)
+10分後 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+10分後 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+10分後 - (?-mix:昨日|きのう|さくじつ)
+10分後 - (?-mix:今日|本日|きょう|ほんじつ)
+10分後 - (?-mix:明日|あした|みょうじつ)
+10分後 - (?-mix:明後日|あさって|みょうごにち)
+10分後 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+10分後 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+10分後 - (?-mix:[先前][々先前]月|せんせんげつ)
+10分後 - (?-mix:先月|前月|せんげつ)
+10分後 - (?-mix:今月|こんげつ)
+10分後 - (?-mix:来月|らいげつ)
+10分後 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+10分後 - (?-mix:再[々再]来月|ささらいげつ)
+10分後 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+10分後 - (?-mix:一昨年|おととし|いっさくねん)
+10分後 - (?-mix:去年|昨年|きょねん|さくねん)
+10分後 - (?-mix:今年|本年|ことし|ほんねん)
+10分後 - (?-mix:来年|明年|らいねん|みょうねん)
+10分後 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+10分後 - (?-mix:明[々明]後年|みょうみょうごねん)
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+10分後 - (?-mix:(\d+)秒)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+明日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+明日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+明日 - (?-mix:昨日|きのう|さくじつ)
+明日 - (?-mix:今日|本日|きょう|ほんじつ)
+明日 - (?-mix:明日|あした|みょうじつ)
+明日
+明日 - (?-mix:明後日|あさって|みょうごにち)
+明日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+明日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+明日 - (?-mix:[先前][々先前]月|せんせんげつ)
+明日 - (?-mix:先月|前月|せんげつ)
+明日 - (?-mix:今月|こんげつ)
+明日 - (?-mix:来月|らいげつ)
+明日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+明日 - (?-mix:再[々再]来月|ささらいげつ)
+明日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+明日 - (?-mix:一昨年|おととし|いっさくねん)
+明日 - (?-mix:去年|昨年|きょねん|さくねん)
+明日 - (?-mix:今年|本年|ことし|ほんねん)
+明日 - (?-mix:来年|明年|らいねん|みょうねん)
+明日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+明日 - (?-mix:明[々明]後年|みょうみょうごねん)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:昨日|きのう|さくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:今日|本日|きょう|ほんじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明日|あした|みょうじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明後日|あさって|みょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:先月|前月|せんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:今月|こんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:来月|らいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再[々再]来月|ささらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:一昨年|おととし|いっさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:去年|昨年|きょねん|さくねん)
+2012年04月11日の12時45分30秒 - (?-mix:今年|本年|ことし|ほんねん)
+2012年04月11日の12時45分30秒 - (?-mix:来年|明年|らいねん|みょうねん)
+2012年04月11日の12時45分30秒 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+10分後 - (?-mix:(\d+)秒)
+10分後 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+10分後 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+10分後 - (?-mix:昨日|きのう|さくじつ)
+10分後 - (?-mix:今日|本日|きょう|ほんじつ)
+10分後 - (?-mix:明日|あした|みょうじつ)
+10分後 - (?-mix:明後日|あさって|みょうごにち)
+10分後 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+10分後 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+10分後 - (?-mix:[先前][々先前]月|せんせんげつ)
+10分後 - (?-mix:先月|前月|せんげつ)
+10分後 - (?-mix:今月|こんげつ)
+10分後 - (?-mix:来月|らいげつ)
+10分後 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+10分後 - (?-mix:再[々再]来月|ささらいげつ)
+10分後 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+10分後 - (?-mix:一昨年|おととし|いっさくねん)
+10分後 - (?-mix:去年|昨年|きょねん|さくねん)
+10分後 - (?-mix:今年|本年|ことし|ほんねん)
+10分後 - (?-mix:来年|明年|らいねん|みょうねん)
+10分後 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+10分後 - (?-mix:明[々明]後年|みょうみょうごねん)
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+10分後 - (?-mix:(\d+)秒)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+明日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+明日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+明日 - (?-mix:昨日|きのう|さくじつ)
+明日 - (?-mix:今日|本日|きょう|ほんじつ)
+明日 - (?-mix:明日|あした|みょうじつ)
+明日
+明日 - (?-mix:明後日|あさって|みょうごにち)
+明日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+明日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+明日 - (?-mix:[先前][々先前]月|せんせんげつ)
+明日 - (?-mix:先月|前月|せんげつ)
+明日 - (?-mix:今月|こんげつ)
+明日 - (?-mix:来月|らいげつ)
+明日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+明日 - (?-mix:再[々再]来月|ささらいげつ)
+明日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+明日 - (?-mix:一昨年|おととし|いっさくねん)
+明日 - (?-mix:去年|昨年|きょねん|さくねん)
+明日 - (?-mix:今年|本年|ことし|ほんねん)
+明日 - (?-mix:来年|明年|らいねん|みょうねん)
+明日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+明日 - (?-mix:明[々明]後年|みょうみょうごねん)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+12
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:昨日|きのう|さくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:今日|本日|きょう|ほんじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明日|あした|みょうじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明後日|あさって|みょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:先月|前月|せんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:今月|こんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:来月|らいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再[々再]来月|ささらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:一昨年|おととし|いっさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:去年|昨年|きょねん|さくねん)
+2012年04月11日の12時45分30秒 - (?-mix:今年|本年|ことし|ほんねん)
+2012年04月11日の12時45分30秒 - (?-mix:来年|明年|らいねん|みょうねん)
+2012年04月11日の12時45分30秒 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+10分後 - (?-mix:(\d+)秒)
+10分後 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+10分後 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+10分後 - (?-mix:昨日|きのう|さくじつ)
+10分後 - (?-mix:今日|本日|きょう|ほんじつ)
+10分後 - (?-mix:明日|あした|みょうじつ)
+10分後 - (?-mix:明後日|あさって|みょうごにち)
+10分後 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+10分後 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+10分後 - (?-mix:[先前][々先前]月|せんせんげつ)
+10分後 - (?-mix:先月|前月|せんげつ)
+10分後 - (?-mix:今月|こんげつ)
+10分後 - (?-mix:来月|らいげつ)
+10分後 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+10分後 - (?-mix:再[々再]来月|ささらいげつ)
+10分後 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+10分後 - (?-mix:一昨年|おととし|いっさくねん)
+10分後 - (?-mix:去年|昨年|きょねん|さくねん)
+10分後 - (?-mix:今年|本年|ことし|ほんねん)
+10分後 - (?-mix:来年|明年|らいねん|みょうねん)
+10分後 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+10分後 - (?-mix:明[々明]後年|みょうみょうごねん)
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+10分後 - (?-mix:(\d+)秒)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+明日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+明日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+明日 - (?-mix:昨日|きのう|さくじつ)
+明日 - (?-mix:今日|本日|きょう|ほんじつ)
+明日 - (?-mix:明日|あした|みょうじつ)
+明日
+明日 - (?-mix:明後日|あさって|みょうごにち)
+明日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+明日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+明日 - (?-mix:[先前][々先前]月|せんせんげつ)
+明日 - (?-mix:先月|前月|せんげつ)
+明日 - (?-mix:今月|こんげつ)
+明日 - (?-mix:来月|らいげつ)
+明日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+明日 - (?-mix:再[々再]来月|ささらいげつ)
+明日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+明日 - (?-mix:一昨年|おととし|いっさくねん)
+明日 - (?-mix:去年|昨年|きょねん|さくねん)
+明日 - (?-mix:今年|本年|ことし|ほんねん)
+明日 - (?-mix:来年|明年|らいねん|みょうねん)
+明日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+明日 - (?-mix:明[々明]後年|みょうみょうごねん)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+#<Hashie::Mash hour=12 minute=0 second=0>
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+#<Hashie::Mash hour=12 minute=45 second=0>
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+#<Hashie::Mash hour=12 minute=45 second=30>
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:昨日|きのう|さくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:今日|本日|きょう|ほんじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明日|あした|みょうじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明後日|あさって|みょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:先月|前月|せんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:今月|こんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:来月|らいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再[々再]来月|ささらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:一昨年|おととし|いっさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:去年|昨年|きょねん|さくねん)
+2012年04月11日の12時45分30秒 - (?-mix:今年|本年|ことし|ほんねん)
+2012年04月11日の12時45分30秒 - (?-mix:来年|明年|らいねん|みょうねん)
+2012年04月11日の12時45分30秒 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+12時
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+45分
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+30秒
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+#<Hashie::Mash minute=10 second=0>
+10分後 - (?-mix:(\d+)秒)
+10分後 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+10分後 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+10分後 - (?-mix:昨日|きのう|さくじつ)
+10分後 - (?-mix:今日|本日|きょう|ほんじつ)
+10分後 - (?-mix:明日|あした|みょうじつ)
+10分後 - (?-mix:明後日|あさって|みょうごにち)
+10分後 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+10分後 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+10分後 - (?-mix:[先前][々先前]月|せんせんげつ)
+10分後 - (?-mix:先月|前月|せんげつ)
+10分後 - (?-mix:今月|こんげつ)
+10分後 - (?-mix:来月|らいげつ)
+10分後 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+10分後 - (?-mix:再[々再]来月|ささらいげつ)
+10分後 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+10分後 - (?-mix:一昨年|おととし|いっさくねん)
+10分後 - (?-mix:去年|昨年|きょねん|さくねん)
+10分後 - (?-mix:今年|本年|ことし|ほんねん)
+10分後 - (?-mix:来年|明年|らいねん|みょうねん)
+10分後 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+10分後 - (?-mix:明[々明]後年|みょうみょうごねん)
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分
+10分後 - (?-mix:(\d+)秒)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+明日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+明日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+明日 - (?-mix:昨日|きのう|さくじつ)
+明日 - (?-mix:今日|本日|きょう|ほんじつ)
+明日 - (?-mix:明日|あした|みょうじつ)
+明日
+明日 - (?-mix:明後日|あさって|みょうごにち)
+明日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+明日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+明日 - (?-mix:[先前][々先前]月|せんせんげつ)
+明日 - (?-mix:先月|前月|せんげつ)
+明日 - (?-mix:今月|こんげつ)
+明日 - (?-mix:来月|らいげつ)
+明日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+明日 - (?-mix:再[々再]来月|ささらいげつ)
+明日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+明日 - (?-mix:一昨年|おととし|いっさくねん)
+明日 - (?-mix:去年|昨年|きょねん|さくねん)
+明日 - (?-mix:今年|本年|ことし|ほんねん)
+明日 - (?-mix:来年|明年|らいねん|みょうねん)
+明日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+明日 - (?-mix:明[々明]後年|みょうみょうごねん)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+#<Hashie::Mash hour=12 minute=0 second=0>
+#<Hashie::Mash hour=12 minute=45 second=0>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=12 minute=45 second=30>
+#<Hashie::Mash hour=28 minute=45 second=30>
+#<Hashie::Mash hour=28 minute=80 second=30>
+#<Hashie::Mash hour=28 minute=80 second=31>
+#<Hashie::Mash>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=10 second=0>
+#<Hashie::Mash minute=45 second=0>
+#<Hashie::Mash minute=45 second=0>
+#<Hashie::Mash>
+#<Hashie::Mash>
+#<Hashie::Mash>
+#<Hashie::Mash>
+#<Hashie::Mash>
+#<Hashie::Mash>
+#<Hashie::Mash>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+#<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=28 minute=45 second=30>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=28 minute=80 second=30>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=28 minute=80 second=70>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=45 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=28 minute=45 second=30>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=28 minute=80 second=30>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=28 minute=80 second=88>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=45 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=28 minute=45 second=30>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=28 minute=82 second=30>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=28 minute=82 second=33>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=47 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=47 second=0>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=28 minute=45 second=30>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=28 minute=82 second=30>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=28 minute=82 second=40>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=47 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=47 second=0>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=47 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=47 second=0>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)日) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=49 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=49 second=0>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)日) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)月) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)年) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=50 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=50 second=0>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)日) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)月) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)年) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=51 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=51 second=0>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)日) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)月) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今月|こんげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来月|らいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)年) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)時) - #<Hashie::Mash minute=10 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=52 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=52 second=0>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=53>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=53>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=54>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=54>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=55>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=55>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=55>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=55>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=56>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=56>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=56>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=56>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=56>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=56>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=57>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=57>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=57>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=57>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=57>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=57>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=58>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=58>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash hour=12 minute=0 second=0>
+(?-mix:(\d+)分) - #<Hashie::Mash hour=12 minute=45 second=0>
+(?-mix:(\d+)秒) - #<Hashie::Mash hour=12 minute=45 second=30>
+(?-mix:(\d+)日) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=11 hour=12 minute=45 second=30>
+(?-mix:(\d+)月) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30>
+(?-mix:(\d+)年) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=11 hour=12 minute=45 month=4 second=30 year=2012>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash>
+(?-mix:(\d+)月) - #<Hashie::Mash>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash>
+(?-mix:今月|こんげつ) - #<Hashie::Mash>
+(?-mix:来月|らいげつ) - #<Hashie::Mash>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash>
+(?-mix:(\d+)年) - #<Hashie::Mash>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash>
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash minute=58>
+(?-mix:(\d+)秒) - #<Hashie::Mash minute=58>
+-----------------------------
+(?-mix:(\d+)時) - #<Hashie::Mash>
+(?-mix:(\d+)分) - #<Hashie::Mash>
+(?-mix:(\d+)秒) - #<Hashie::Mash>
+(?-mix:(\d+)日) - #<Hashie::Mash>
+(?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ) - #<Hashie::Mash>
+(?-mix:一昨日|おと[とつ]い|いっさくじつ) - #<Hashie::Mash>
+(?-mix:昨日|きのう|さくじつ) - #<Hashie::Mash>
+(?-mix:今日|本日|きょう|ほんじつ) - #<Hashie::Mash>
+(?-mix:明日|あした|みょうじつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明後日|あさって|みょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後日|しあさって|みょうみょうごにち) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)月) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]{3}月|せんせんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:[先前][々先前]月|せんせんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:先月|前月|せんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今月|こんげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来月|らいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再[々再]来月|ささらいげつ) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)年) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨[々昨]年|さきおととし|いっさくさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:一昨年|おととし|いっさくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:去年|昨年|きょねん|さくねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:今年|本年|ことし|ほんねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:来年|明年|らいねん|みょうねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:再来年|明後年|さらいねん|みょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:明[々明]後年|みょうみょうごねん) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)時) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)分) - #<Hashie::Mash day=20 month=4 year=2012>
+(?-mix:(\d+)秒) - #<Hashie::Mash day=20 month=4 year=2012>
+-----------------------------
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:46:41+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:46:41+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:46:41+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:46:41+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:46:41+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:46:41+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:46:41+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:46:41+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:46:41+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:46:41+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:46:41+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:46:41+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:46:41+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:46:41+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:46:41+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:46:41+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:46:41+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:46:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:47:04+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:47:04+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:47:04+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:47:04+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:47:04+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:47:04+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:47:04+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:47:04+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:47:04+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:47:04+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:47:04+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:47:04+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:47:04+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:47:04+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:47:04+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:47:04+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:47:04+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:04+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:47:15+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:47:15+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:47:15+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:47:15+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:47:15+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:47:15+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:47:15+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:47:15+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:47:15+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:47:15+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:47:15+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:47:15+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:47:15+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:47:15+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:47:15+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:47:15+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:47:15+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:47:15+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:52:17+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:52:17+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:52:17+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:52:17+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:52:17+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:52:17+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:52:17+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:52:17+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:52:17+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:52:17+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:52:17+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:52:17+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:52:17+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:52:17+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:52:17+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:52:17+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:17+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:52:39+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:52:39+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:52:39+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:52:39+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:52:39+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:52:39+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:52:39+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:52:39+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:52:39+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:52:39+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:52:39+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:52:39+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:52:39+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:52:39+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:52:39+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:52:39+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:39+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:52:41+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:52:41+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:52:41+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:52:41+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:52:41+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:52:41+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:52:41+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:52:41+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:52:41+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:52:41+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:52:41+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:52:41+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:52:41+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:52:41+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:52:41+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:52:41+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:52:41+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:54:24+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:54:24+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:54:24+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:54:24+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:54:24+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:54:24+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:54:24+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:54:24+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:54:24+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:54:24+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:54:24+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:54:24+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:54:24+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:54:24+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:54:24+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:54:24+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:54:24+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:54:24+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:54:24+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:54:37+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:54:37+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:54:37+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:54:37+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:54:37+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:54:37+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:54:37+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:54:37+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:54:37+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:54:37+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:54:37+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:54:37+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:54:37+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:54:37+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:54:37+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:54:37+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:54:37+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:54:37+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:54:37+09:00 - (?-mix:明日|あした|みょうじつ)
+#<Proc:0x00000101468b18@/Users/token/code/gem/horai/lib/horai.rb:35> --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+#<Proc:0x00000101468280@/Users/token/code/gem/horai/lib/horai.rb:156> --
+#<Proc:0x00000101468230@/Users/token/code/gem/horai/lib/horai.rb:160> --
+#<Proc:0x00000101468b18@/Users/token/code/gem/horai/lib/horai.rb:35> --
+#<Proc:0x00000101468aa0@/Users/token/code/gem/horai/lib/horai.rb:42> --
+#<Proc:0x00000101468a50@/Users/token/code/gem/horai/lib/horai.rb:48> --
+#<Proc:0x00000101468a00@/Users/token/code/gem/horai/lib/horai.rb:54> --
+#<Proc:0x000001014689b0@/Users/token/code/gem/horai/lib/horai.rb:58> --
+#<Proc:0x00000101468960@/Users/token/code/gem/horai/lib/horai.rb:62> --
+#<Proc:0x00000101468910@/Users/token/code/gem/horai/lib/horai.rb:66> --
+#<Proc:0x000001014688c0@/Users/token/code/gem/horai/lib/horai.rb:70> --
+#<Proc:0x00000101468870@/Users/token/code/gem/horai/lib/horai.rb:74> --
+12時 --
+ --
+10分 --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+10分 --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+ --
+明日 --
+2012-04-19T17:56:37+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:56:37+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:56:37+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:56:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:56:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:56:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:57:20+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:57:20+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:57:20+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:57:51+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:57:51+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:57:51+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:57:51+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:57:51+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:57:51+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:57:51+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)秒)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)日)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:57:51+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T17:57:51+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)月)
+2012-04-19T17:57:51+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)年)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T17:57:51+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T17:57:51+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T17:57:51+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T17:57:51+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T17:57:51+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T17:57:51+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:57:51+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T17:58:09+09:00 - (?-mix:(\d+)時)
+2012-04-19T17:58:09+09:00 - (?-mix:(\d+)分)
+2012-04-19T17:58:09+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T17:58:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T17:58:51+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T17:58:51+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T17:59:20+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T17:59:20+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T17:59:20+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:00:38+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:00:38+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:03:11+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:03:11+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:03:19+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:03:19+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:03:19+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:05:59+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:05:59+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:05:59+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:05:59+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:08:42+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:08:42+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:08:42+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:08:42+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:09:33+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:09:33+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:09:33+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:09:33+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:09:33+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+2012-04-19T18:09:42+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:09:42+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:09:42+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:09:42+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:09:42+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+2012-04-19T18:10:04+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:10:04+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:10:04+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:10:04+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:10:04+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+---------------
+2012-04-19T18:11:17+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:11:17+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:11:17+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:11:17+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:11:17+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+---------------
+2012-04-19T18:11:54+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:11:54+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:11:54+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:11:54+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:11:54+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+2012-04-19T18:11:54+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:11:57+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:11:57+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:11:57+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:11:57+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:11:57+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+2012-04-19T18:11:57+09:00 - (?-mix:(\d+)時)
+---------------
+2012-04-19T18:15:08+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:15:08+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:15:08+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:15:08+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:15:08+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+2012-04-19T18:15:08+09:00 - (?-mix:(\d+)時)
+---------------
+2012-04-19T18:15:22+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:15:22+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:15:22+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:15:22+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:15:22+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+---------------
+2012-04-19T18:15:50+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-11T12:45:30+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-11T12:45:30+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-11T12:45:30+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-11T12:45:30+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-11T12:45:30+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-11T12:45:30+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-11T12:45:30+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-11T12:45:30+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-11T12:45:30+09:00 - (?-mix:今月|こんげつ)
+2012-04-11T12:45:30+09:00 - (?-mix:来月|らいげつ)
+2012-04-11T12:45:30+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-11T12:45:30+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+2012-04-11T12:45:30+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-11T12:45:30+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-11T12:45:30+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-11T12:45:30+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-11T12:45:30+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-11T12:45:30+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-11T12:45:30+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)時)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)分)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)秒)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)日)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T18:15:51+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)月)
+2012-04-19T18:15:51+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)年)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T18:15:51+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T18:15:51+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T18:15:51+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T18:15:51+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T18:15:51+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T18:25:51+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)秒)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)日)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-20T18:15:51+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-20T18:15:51+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-20T18:15:51+09:00 - (?-mix:(\d+)月)
+2012-04-20T18:15:51+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-20T18:15:51+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-20T18:15:51+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-20T18:15:51+09:00 - (?-mix:今月|こんげつ)
+2012-04-20T18:15:51+09:00 - (?-mix:来月|らいげつ)
+2012-04-20T18:15:51+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-20T18:15:51+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-20T18:15:51+09:00 - (?-mix:(\d+)年)
+2012-04-20T18:15:51+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-20T18:15:51+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-20T18:15:51+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-20T18:15:51+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-20T18:15:51+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-20T18:15:51+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-20T18:15:51+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-20T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-20T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-20T18:15:51+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)秒)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)日)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-21T18:15:51+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-21T18:15:51+09:00 - (?-mix:(\d+)月)
+2012-04-21T18:15:51+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-21T18:15:51+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-21T18:15:51+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-21T18:15:51+09:00 - (?-mix:今月|こんげつ)
+2012-04-21T18:15:51+09:00 - (?-mix:来月|らいげつ)
+2012-04-21T18:15:51+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-21T18:15:51+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-21T18:15:51+09:00 - (?-mix:(\d+)年)
+2012-04-21T18:15:51+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-21T18:15:51+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-21T18:15:51+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-21T18:15:51+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-21T18:15:51+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-21T18:15:51+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-21T18:15:51+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-21T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-21T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-21T18:15:51+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)秒)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)日)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-18T18:15:51+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-18T18:15:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-18T18:15:51+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-18T18:15:51+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-18T18:15:51+09:00 - (?-mix:(\d+)月)
+2012-04-18T18:15:51+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-18T18:15:51+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-18T18:15:51+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-18T18:15:51+09:00 - (?-mix:今月|こんげつ)
+2012-04-18T18:15:51+09:00 - (?-mix:来月|らいげつ)
+2012-04-18T18:15:51+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-18T18:15:51+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-18T18:15:51+09:00 - (?-mix:(\d+)年)
+2012-04-18T18:15:51+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-18T18:15:51+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-18T18:15:51+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-18T18:15:51+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-18T18:15:51+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-18T18:15:51+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-18T18:15:51+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-18T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-18T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-18T18:15:51+09:00 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)秒)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)日)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:昨日|きのう|さくじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:今日|本日|きょう|ほんじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:明日|あした|みょうじつ)
+2012-04-19T18:15:51+09:00 - (?-mix:明後日|あさって|みょうごにち)
+2012-04-19T18:15:51+09:00 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)月)
+2012-04-19T18:15:51+09:00 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:先月|前月|せんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:今月|こんげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:来月|らいげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:再[々再]来月|ささらいげつ)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)年)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012-04-19T18:15:51+09:00 - (?-mix:一昨年|おととし|いっさくねん)
+2012-04-19T18:15:51+09:00 - (?-mix:去年|昨年|きょねん|さくねん)
+2012-04-19T18:15:51+09:00 - (?-mix:今年|本年|ことし|ほんねん)
+2012-04-19T18:15:51+09:00 - (?-mix:来年|明年|らいねん|みょうねん)
+2012-04-19T18:15:51+09:00 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012-04-19T18:15:51+09:00 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)時)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)分)
+2012-04-19T18:15:51+09:00 - (?-mix:(\d+)秒)
+---------------
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)日)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:昨日|きのう|さくじつ)
+2012年04月11日の12時45分30秒 - (?-mix:今日|本日|きょう|ほんじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明日|あした|みょうじつ)
+2012年04月11日の12時45分30秒 - (?-mix:明後日|あさって|みょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)月)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:[先前][々先前]月|せんせんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:先月|前月|せんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:今月|こんげつ)
+2012年04月11日の12時45分30秒 - (?-mix:来月|らいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:再[々再]来月|ささらいげつ)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)年)
+2012年04月11日の12時45分30秒 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:一昨年|おととし|いっさくねん)
+2012年04月11日の12時45分30秒 - (?-mix:去年|昨年|きょねん|さくねん)
+2012年04月11日の12時45分30秒 - (?-mix:今年|本年|ことし|ほんねん)
+2012年04月11日の12時45分30秒 - (?-mix:来年|明年|らいねん|みょうねん)
+2012年04月11日の12時45分30秒 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:明[々明]後年|みょうみょうごねん)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)時)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)分)
+2012年04月11日の12時45分30秒 - (?-mix:(\d+)秒)
+---------------
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分後 - (?-mix:(\d+)秒)
+10分後 - (?-mix:(\d+)日)
+10分後 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+10分後 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+10分後 - (?-mix:昨日|きのう|さくじつ)
+10分後 - (?-mix:今日|本日|きょう|ほんじつ)
+10分後 - (?-mix:明日|あした|みょうじつ)
+10分後 - (?-mix:明後日|あさって|みょうごにち)
+10分後 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+10分後 - (?-mix:(\d+)月)
+10分後 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+10分後 - (?-mix:[先前][々先前]月|せんせんげつ)
+10分後 - (?-mix:先月|前月|せんげつ)
+10分後 - (?-mix:今月|こんげつ)
+10分後 - (?-mix:来月|らいげつ)
+10分後 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+10分後 - (?-mix:再[々再]来月|ささらいげつ)
+10分後 - (?-mix:(\d+)年)
+10分後 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+10分後 - (?-mix:一昨年|おととし|いっさくねん)
+10分後 - (?-mix:去年|昨年|きょねん|さくねん)
+10分後 - (?-mix:今年|本年|ことし|ほんねん)
+10分後 - (?-mix:来年|明年|らいねん|みょうねん)
+10分後 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+10分後 - (?-mix:明[々明]後年|みょうみょうごねん)
+10分後 - (?-mix:(\d+)時)
+10分後 - (?-mix:(\d+)分)
+10分後 - (?-mix:(\d+)秒)
+---------------
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+明日 - (?-mix:(\d+)日)
+明日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+明日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+明日 - (?-mix:昨日|きのう|さくじつ)
+明日 - (?-mix:今日|本日|きょう|ほんじつ)
+明日 - (?-mix:明日|あした|みょうじつ)
+明日 - (?-mix:明後日|あさって|みょうごにち)
+明日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+明日 - (?-mix:(\d+)月)
+明日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+明日 - (?-mix:[先前][々先前]月|せんせんげつ)
+明日 - (?-mix:先月|前月|せんげつ)
+明日 - (?-mix:今月|こんげつ)
+明日 - (?-mix:来月|らいげつ)
+明日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+明日 - (?-mix:再[々再]来月|ささらいげつ)
+明日 - (?-mix:(\d+)年)
+明日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+明日 - (?-mix:一昨年|おととし|いっさくねん)
+明日 - (?-mix:去年|昨年|きょねん|さくねん)
+明日 - (?-mix:今年|本年|ことし|ほんねん)
+明日 - (?-mix:来年|明年|らいねん|みょうねん)
+明日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+明日 - (?-mix:明[々明]後年|みょうみょうごねん)
+明日 - (?-mix:(\d+)時)
+明日 - (?-mix:(\d+)分)
+明日 - (?-mix:(\d+)秒)
+---------------
+明後日 - (?-mix:(\d+)時)
+明後日 - (?-mix:(\d+)分)
+明後日 - (?-mix:(\d+)秒)
+明後日 - (?-mix:(\d+)日)
+明後日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+明後日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+明後日 - (?-mix:昨日|きのう|さくじつ)
+明後日 - (?-mix:今日|本日|きょう|ほんじつ)
+明後日 - (?-mix:明日|あした|みょうじつ)
+明後日 - (?-mix:明後日|あさって|みょうごにち)
+明後日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+明後日 - (?-mix:(\d+)月)
+明後日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+明後日 - (?-mix:[先前][々先前]月|せんせんげつ)
+明後日 - (?-mix:先月|前月|せんげつ)
+明後日 - (?-mix:今月|こんげつ)
+明後日 - (?-mix:来月|らいげつ)
+明後日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+明後日 - (?-mix:再[々再]来月|ささらいげつ)
+明後日 - (?-mix:(\d+)年)
+明後日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+明後日 - (?-mix:一昨年|おととし|いっさくねん)
+明後日 - (?-mix:去年|昨年|きょねん|さくねん)
+明後日 - (?-mix:今年|本年|ことし|ほんねん)
+明後日 - (?-mix:来年|明年|らいねん|みょうねん)
+明後日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+明後日 - (?-mix:明[々明]後年|みょうみょうごねん)
+明後日 - (?-mix:(\d+)時)
+明後日 - (?-mix:(\d+)分)
+明後日 - (?-mix:(\d+)秒)
+---------------
+昨日 - (?-mix:(\d+)時)
+昨日 - (?-mix:(\d+)分)
+昨日 - (?-mix:(\d+)秒)
+昨日 - (?-mix:(\d+)日)
+昨日 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+昨日 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+昨日 - (?-mix:昨日|きのう|さくじつ)
+昨日 - (?-mix:今日|本日|きょう|ほんじつ)
+昨日 - (?-mix:明日|あした|みょうじつ)
+昨日 - (?-mix:明後日|あさって|みょうごにち)
+昨日 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+昨日 - (?-mix:(\d+)月)
+昨日 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+昨日 - (?-mix:[先前][々先前]月|せんせんげつ)
+昨日 - (?-mix:先月|前月|せんげつ)
+昨日 - (?-mix:今月|こんげつ)
+昨日 - (?-mix:来月|らいげつ)
+昨日 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+昨日 - (?-mix:再[々再]来月|ささらいげつ)
+昨日 - (?-mix:(\d+)年)
+昨日 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+昨日 - (?-mix:一昨年|おととし|いっさくねん)
+昨日 - (?-mix:去年|昨年|きょねん|さくねん)
+昨日 - (?-mix:今年|本年|ことし|ほんねん)
+昨日 - (?-mix:来年|明年|らいねん|みょうねん)
+昨日 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+昨日 - (?-mix:明[々明]後年|みょうみょうごねん)
+昨日 - (?-mix:(\d+)時)
+昨日 - (?-mix:(\d+)分)
+昨日 - (?-mix:(\d+)秒)
+---------------
+10日後 - (?-mix:(\d+)時)
+10日後 - (?-mix:(\d+)分)
+10日後 - (?-mix:(\d+)秒)
+10日後 - (?-mix:(\d+)日)
+10日後 - (?-mix:一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ)
+10日後 - (?-mix:一昨日|おと[とつ]い|いっさくじつ)
+10日後 - (?-mix:昨日|きのう|さくじつ)
+10日後 - (?-mix:今日|本日|きょう|ほんじつ)
+10日後 - (?-mix:明日|あした|みょうじつ)
+10日後 - (?-mix:明後日|あさって|みょうごにち)
+10日後 - (?-mix:明[々明]後日|しあさって|みょうみょうごにち)
+10日後 - (?-mix:(\d+)月)
+10日後 - (?-mix:[先前][々先前]{3}月|せんせんせんげつ)
+10日後 - (?-mix:[先前][々先前]月|せんせんげつ)
+10日後 - (?-mix:先月|前月|せんげつ)
+10日後 - (?-mix:今月|こんげつ)
+10日後 - (?-mix:来月|らいげつ)
+10日後 - (?-mix:再来月|来[々来]月|さらいげつ|らいらいげつ)
+10日後 - (?-mix:再[々再]来月|ささらいげつ)
+10日後 - (?-mix:(\d+)年)
+10日後 - (?-mix:一昨[々昨]年|さきおととし|いっさくさくねん)
+10日後 - (?-mix:一昨年|おととし|いっさくねん)
+10日後 - (?-mix:去年|昨年|きょねん|さくねん)
+10日後 - (?-mix:今年|本年|ことし|ほんねん)
+10日後 - (?-mix:来年|明年|らいねん|みょうねん)
+10日後 - (?-mix:再来年|明後年|さらいねん|みょうごねん)
+10日後 - (?-mix:明[々明]後年|みょうみょうごねん)
+10日後 - (?-mix:(\d+)時)
+10日後 - (?-mix:(\d+)分)
+10日後 - (?-mix:(\d+)秒)
+---------------
+2012-04-19T18:24:31+09:00 - (?-mix:(\d+)時)
+2012-04-19T12:00:00+09:00 - (?-mix:(\d+)分)
+2012-04-19T12:45:00+09:00 - (?-mix:(\d+)秒)
+2012-04-19T12:45:30+09:00 - (?-mix:(\d+)日)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)月)
+2012-04-11T12:45:30+09:00 - (?-mix:(\d+)年)
+---------------
+2012-04-19T18:24:31+09:00 - (?-mix:(\d+)分)
+---------------
+2012-04-19T18:24:31+09:00 - (?-mix:明日|あした|みょうじつ)
+---------------
+2012-04-19T18:24:31+09:00 - (?-mix:明後日|あさって|みょうごにち)
+---------------
+2012-04-19T18:24:31+09:00 - (?-mix:昨日|きのう|さくじつ)
+---------------
+2012-04-19T18:24:31+09:00 - (?-mix:(\d+)日)
+---------------
