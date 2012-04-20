@@ -277,7 +277,9 @@ class Horai
   def self.normalize(text)
     normalized = text
     normalized.tr!(NORMALIZE_FROM, NORMALIZE_TO)
-    normalized.gsub!(/[一二三四五六七八九十百千万億兆]+/) do |match|
+    digits = "一二三四五六七八九十百千"
+    classes = "万億兆"
+    normalized.gsub!(/[#{digits}][#{digits}#{classes}]*/) do |match|
       JaNumber::JaNumberParser::parse(match)
     end
     return normalized

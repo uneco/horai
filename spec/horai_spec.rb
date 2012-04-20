@@ -27,6 +27,7 @@ describe Horai do
       Horai.normalize('十五').should === '15'
       Horai.normalize('十四万二千三百四十五').should === '142345'
       Horai.normalize('百五十時間後').should === '150時間後'
+      Horai.normalize('1万秒').should === '1万秒' # しばらくパース放棄
     end
   end
 
