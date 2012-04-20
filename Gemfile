@@ -1,9 +1,9 @@
 source "http://rubygems.org"
 # Add dependencies required to use your gem here.
 
-gem "i18n", "~> 0.6.0"
-gem "activesupport", "~> 3.0.0"
-gem "rparsec-ruby19", "~> 1.0"
+gem "i18n", ">= 0.6.0"
+gem "activesupport", ">= 3.0.0"
+gem "rparsec-ruby19", ">= 1.0"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
