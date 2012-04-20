@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "horai"
   gem.homepage = "http://github.com/wneko/horai"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "wx.aoki@gmail.com"
+  gem.summary = "日本語の時刻表現をパースし、DateTime型に変換する Gem"
+  gem.description = "Horai は日本語の時刻表現をパースし、DateTime型に変換することを目標としている Gem です。"
+  gem.email = "aoki@u-ne.co"
   gem.authors = ["AOKI Yuuto"]
   # dependencies defined in Gemfile
 end
