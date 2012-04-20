@@ -3,13 +3,14 @@
 require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 
 def now (year = nil, month = nil, day = nil, hour = nil, minute = nil, second = nil)
-  time = DateTime.now
-  DateTime.new(year   || time.year,
-               month  || time.month,
-               day    || time.day,
-               hour   || time.hour,
-               minute || time.minute,
-               second || time.second,
+  @now ||= Horai::now
+
+  DateTime.new(year   || @now.year,
+               month  || @now.month,
+               day    || @now.day,
+               hour   || @now.hour,
+               minute || @now.minute,
+               second || @now.second,
                Rational(9, 24))
 end
 
@@ -69,6 +70,30 @@ describe Horai do
       time = Horai.parse("10日の正午に")
       time.to_s.should === (now(nil, nil, 10, 12, 0, 0)).to_s
     end
+    it "at hh:mm" do
+      time = Horai.parse("10:20")
+      time.to_s.should === (now(nil, nil, nil, 10, 20, 0)).to_s
+    end
+    it "at hh:mm:ss" do
+      time = Horai.parse("10:20:30")
+      time.to_s.should === (now(nil, nil, nil, 10, 20, 30)).to_s
+    end
+    it "at MM/DD" do
+      time = Horai.parse("10/20")
+      time.to_s.should === now(nil, 10, 20, 0, 0, 0).to_s
+    end
+    it "at YYYY/MM/DD" do
+      time = Horai.parse("2000/10/20")
+      time.to_s.should === now(2000, 10, 20, 0, 0, 0).to_s
+    end
+    it "at YY/MM/DD" do
+      time = Horai.parse("10/10/20")
+      time.to_s.should === now(2010, 10, 20, 0, 0, 0).to_s
+    end
+    it "at YYYY/MM/DD hh:mm:ss" do
+      time = Horai.parse("2000/10/20 12:30:40")
+      time.to_s.should === now(2000, 10, 20, 12, 30, 40).to_s
+    end
   end
 
   context 'parse relative' do
@@ -81,15 +106,15 @@ describe Horai do
     end
     it "tomorrow" do
       time = Horai.parse("明日")
-      time.to_s.should === (now + 1.day).to_s
+      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 1.day).to_s
     end
     it "day after tomorrow" do
       time = Horai.parse("明後日")
-      time.to_s.should === (now + 2.day).to_s
+      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 2.day).to_s
     end
     it "yesterday" do
       time = Horai.parse("昨日")
-      time.to_s.should === (now - 1.day).to_s
+      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 1.day).to_s
     end
     it "numeric minute after" do
       time = Horai.parse("10分後")
@@ -102,6 +127,10 @@ describe Horai do
     it "tomorrow and absolute time" do
       time = Horai.parse("明日の10時")
       time.to_s.should === (now(nil, nil, nil, 10, 0, 0) + 1.day).to_s
+    end
+    it "tomorrow and absolute hh:mm:ss" do
+      time = Horai.parse("明日の10:20:30")
+      time.to_s.should === (now(nil, nil, nil, 10, 20, 30) + 1.day).to_s
     end
     it "tomorrow and afternoon" do
       time = Horai.parse("明日の午後5時")
@@ -118,6 +147,10 @@ describe Horai do
     it "numeric day after and absolute time" do
       time = Horai.parse("3日後の12時45分")
       time.to_s.should === (now(nil, nil, nil, 12, 45, 0) + 3.day).to_s
+    end
+    it "numeric day after and absolute hh:mm:ss" do
+      time = Horai.parse("3日後の12:45:55")
+      time.to_s.should === (now(nil, nil, nil, 12, 45, 55) + 3.day).to_s
     end
     it "numeric day after and relative time" do
       time = Horai.parse("3日12時間45分後")
