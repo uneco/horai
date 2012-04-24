@@ -5,6 +5,14 @@ require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 def now (year = nil, month = nil, day = nil, hour = nil, minute = nil, second = nil)
   @now ||= Horai::now
 
+  # puts "{" + [year   || @now.year,
+  #   month  || @now.month,
+  #   day    || @now.day,
+  #   hour   || @now.hour,
+  #   minute || @now.minute,
+  #   second || @now.second,
+  #   Rational(9, 24)].join(',') + "}"
+
   DateTime.new(year   || @now.year,
                month  || @now.month,
                day    || @now.day,
@@ -27,7 +35,9 @@ describe Horai do
       Horai.normalize('十五').should === '15'
       Horai.normalize('十四万二千三百四十五').should === '142345'
       Horai.normalize('百五十時間後').should === '150時間後'
-      Horai.normalize('1万秒').should === '1万秒' # しばらくパース放棄
+
+      pending "漢数字パースライブラリがだめ"
+      Horai.normalize('1万秒').should === '10000秒'
     end
   end
 
@@ -45,6 +55,14 @@ describe Horai do
     it "year, month, day, hour, minute, second" do
       time = Horai.parse(@sample_text)
       time.to_s.should === @sample_date.to_s
+    end
+    it "year" do
+      time = Horai.parse("1999年")
+      time.to_s.should === now(1999, 1, 1, 0, 0, 0).to_s
+    end
+    it "month" do
+      time = Horai.parse("1月")
+      time.to_s.should === now(nil, 1, 1, 0, 0, 0).to_s
     end
     it "half time" do
       time = Horai.parse("1時半")
@@ -104,15 +122,15 @@ describe Horai do
     end
     it "at YY (near current year)" do
       time = Horai.parse("10年")
-      time.to_s.should === now(2010).to_s
+      time.to_s.should === now(2010, 1, 1, 0, 0, 0).to_s
     end
     it "at YY (near feature)" do
       time = Horai.parse("30年")
-      time.to_s.should === now(2030).to_s
+      time.to_s.should === now(2030, 1, 1, 0, 0, 0).to_s
     end
     it "at YY (not near feature)" do
       time = Horai.parse("90年")
-      time.to_s.should === now(1990).to_s
+      time.to_s.should === now(1990, 1, 1, 0, 0, 0).to_s
     end
   end
 
@@ -123,6 +141,14 @@ describe Horai do
       Horai.relative?("10分したら").should be_true
       Horai.relative?("10分").should be_false
       Horai.relative?("10時10分").should be_false
+    end
+    it "next year" do
+      time = Horai.parse("来年")
+      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 1.year).to_s
+    end
+    it "next month" do
+      time = Horai.parse("来月")
+      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) + 1.month).to_s
     end
     it "tomorrow" do
       time = Horai.parse("明日")
@@ -135,6 +161,10 @@ describe Horai do
     it "yesterday" do
       time = Horai.parse("昨日")
       time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 1.day).to_s
+    end
+    it "numeric year after and absolute month" do
+      time = Horai.parse("10年後の8月")
+      time.to_s.should === (now(nil, 8, 1, 0, 0, 0) + 10.year).to_s
     end
     it "numeric minute after" do
       time = Horai.parse("10分後")
