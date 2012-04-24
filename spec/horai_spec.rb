@@ -5,6 +5,14 @@ require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 def now (year = nil, month = nil, day = nil, hour = nil, minute = nil, second = nil)
   @now ||= Horai::now
 
+  # puts "{" + [year   || @now.year,
+  #   month  || @now.month,
+  #   day    || @now.day,
+  #   hour   || @now.hour,
+  #   minute || @now.minute,
+  #   second || @now.second,
+  #   Rational(9, 24)].join(',') + "}"
+
   DateTime.new(year   || @now.year,
                month  || @now.month,
                day    || @now.day,
@@ -153,6 +161,10 @@ describe Horai do
     it "yesterday" do
       time = Horai.parse("昨日")
       time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 1.day).to_s
+    end
+    it "numeric year after and absolute month" do
+      time = Horai.parse("10年後の8月")
+      time.to_s.should === (now(nil, 8, 1, 0, 0, 0) + 10.year).to_s
     end
     it "numeric minute after" do
       time = Horai.parse("10分後")
