@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["AOKI Yuuto"]
-  s.date = "2012-04-24"
+  s.date = "2012-04-25"
   s.description = "Horai \u{306f}\u{65e5}\u{672c}\u{8a9e}\u{306e}\u{6642}\u{523b}\u{8868}\u{73fe}\u{3092}\u{30d1}\u{30fc}\u{30b9}\u{3057}\u{3001}DateTime\u{578b}\u{306b}\u{5909}\u{63db}\u{3059}\u{308b}\u{3053}\u{3068}\u{3092}\u{76ee}\u{6a19}\u{3068}\u{3057}\u{3066}\u{3044}\u{308b} Gem \u{3067}\u{3059}\u{3002}"
   s.email = "aoki@u-ne.co"
   s.extra_rdoc_files = [
