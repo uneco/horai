@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["AOKI Yuuto"]
-  s.date = "2012-04-25"
-  s.description = "Horai \u{306f}\u{65e5}\u{672c}\u{8a9e}\u{306e}\u{6642}\u{523b}\u{8868}\u{73fe}\u{3092}\u{30d1}\u{30fc}\u{30b9}\u{3057}\u{3001}DateTime\u{578b}\u{306b}\u{5909}\u{63db}\u{3059}\u{308b}\u{3053}\u{3068}\u{3092}\u{76ee}\u{6a19}\u{3068}\u{3057}\u{3066}\u{3044}\u{308b} Gem \u{3067}\u{3059}\u{3002}"
+  s.date = "2012-04-26"
+  s.description = "Derive DateTime from Time expression with Natural language (STILL ONLY IN JAPANESE)"
   s.email = "aoki@u-ne.co"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -27,6 +27,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "horai.gemspec",
     "lib/horai.rb",
+    "lib/horai/parser.rb",
+    "lib/horai/parser/ja_jp.rb",
     "lib/ja_number.rb",
     "spec/horai_spec.rb",
     "spec/spec_helper.rb"
@@ -35,7 +37,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.11"
-  s.summary = "\u{65e5}\u{672c}\u{8a9e}\u{306e}\u{6642}\u{523b}\u{8868}\u{73fe}\u{3092}\u{30d1}\u{30fc}\u{30b9}\u{3057}\u{3001}DateTime\u{578b}\u{306b}\u{5909}\u{63db}\u{3059}\u{308b} Gem"
+  s.summary = "Derive DateTime from Time expression with Natural language"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
