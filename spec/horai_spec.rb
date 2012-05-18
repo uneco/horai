@@ -136,13 +136,45 @@ describe Horai do
       $jajp.relative?("10分").should be_false
       $jajp.relative?("10時10分").should be_false
     end
+    it "two years ago" do
+      time = $jajp.parse("一昨年")
+      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 2.year).to_s
+    end
+    it "last year" do
+      time = $jajp.parse("昨年")
+      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 1.year).to_s
+    end
+    it "this year" do
+      time = $jajp.parse("今年")
+      time.to_s.should === (now(nil, 1, 1, 0, 0, 0)).to_s
+    end
     it "next year" do
       time = $jajp.parse("来年")
       time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 1.year).to_s
     end
+    it "year after next" do
+      time = $jajp.parse("再来年")
+      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 2.year).to_s
+    end
+    it "two monthes ago" do
+      time = $jajp.parse("先々月")
+      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 2.month).to_s
+    end
+    it "last month" do
+      time = $jajp.parse("先月")
+      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 1.month).to_s
+    end
+    it "this month" do
+      time = $jajp.parse("今月")
+      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 1.month).to_s
+    end
     it "next month" do
       time = $jajp.parse("来月")
       time.to_s.should === (now(nil, nil, 1, 0, 0, 0) + 1.month).to_s
+    end
+    it "today" do
+      time = $jajp.parse("今日")
+      time.to_s.should === (now(nil, nil, nil, 0, 0, 0)).to_s
     end
     it "tomorrow" do
       time = $jajp.parse("明日")
@@ -155,6 +187,10 @@ describe Horai do
     it "yesterday" do
       time = $jajp.parse("昨日")
       time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 1.day).to_s
+    end
+    it "day before yesterday" do
+      time = $jajp.parse("一昨日")
+      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 2.day).to_s
     end
     it "numeric year after and absolute month" do
       time = $jajp.parse("10年後の8月")

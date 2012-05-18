@@ -32,6 +32,7 @@ module Horai
       end
 
       filter /今年|本年|ことし|ほんねん/, :absolute do |text, matches, date|
+        truncate_time(datetime_delta(date, month: 1, day: 1))
       end
 
       filter /来年|明年|らいねん|みょうねん/, :absolute do |text, matches, date|
@@ -64,6 +65,7 @@ module Horai
       end
 
       filter /今月|こんげつ/, :absolute do |text, matches, date|
+        truncate_time(datetime_delta(date, day: 1))
       end
 
       filter /来月|らいげつ/, :absolute do |text, matches, date|
@@ -93,6 +95,10 @@ module Horai
 
       filter /昨日|きのう|さくじつ/, :absolute do |text, matches, date|
         truncate_time(date - 1.day)
+      end
+
+      filter /今日|本日|きょう|ほんじつ/, :absolute do |text, matches, date|
+        truncate_time(date)
       end
 
       filter /明日|あした|みょうじつ/, :absolute do |text, matches, date|
