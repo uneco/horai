@@ -136,117 +136,132 @@ describe Horai do
       $jajp.relative?("10分").should be_false
       $jajp.relative?("10時10分").should be_false
     end
-    it "two years ago" do
-      time = $jajp.parse("一昨年")
-      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 2.year).to_s
+    context "year" do
+      it "two years ago" do
+        time = $jajp.parse("一昨年")
+        time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 2.year).to_s
+      end
+      it "last year" do
+        time = $jajp.parse("昨年")
+        time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 1.year).to_s
+      end
+      it "this year" do
+        time = $jajp.parse("今年")
+        time.to_s.should === (now(nil, 1, 1, 0, 0, 0)).to_s
+      end
+      it "next year" do
+        time = $jajp.parse("来年")
+        time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 1.year).to_s
+      end
+      it "year after next" do
+        time = $jajp.parse("再来年")
+        time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 2.year).to_s
+      end
     end
-    it "last year" do
-      time = $jajp.parse("昨年")
-      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 1.year).to_s
+
+    context "month" do
+      it "two monthes ago" do
+        time = $jajp.parse("先々月")
+        time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 2.month).to_s
+      end
+      it "last month" do
+        time = $jajp.parse("先月")
+        time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 1.month).to_s
+      end
+      it "this month" do
+        time = $jajp.parse("今月")
+        time.to_s.should === (now(nil, nil, 1, 0, 0, 0)).to_s
+      end
+      it "next month" do
+        time = $jajp.parse("来月")
+        time.to_s.should === (now(nil, nil, 1, 0, 0, 0) + 1.month).to_s
+      end
+      it "month after next" do
+        time = $jajp.parse("再来月")
+        time.to_s.should === (now(nil, nil, 1, 0, 0, 0) + 2.month).to_s
+      end
     end
-    it "this year" do
-      time = $jajp.parse("今年")
-      time.to_s.should === (now(nil, 1, 1, 0, 0, 0)).to_s
+
+    context "day" do
+      it "day before yesterday" do
+        time = $jajp.parse("一昨日")
+        time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 2.day).to_s
+      end
+      it "yesterday" do
+        time = $jajp.parse("昨日")
+        time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 1.day).to_s
+      end
+      it "today" do
+        time = $jajp.parse("今日")
+        time.to_s.should === (now(nil, nil, nil, 0, 0, 0)).to_s
+      end
+      it "tomorrow" do
+        time = $jajp.parse("明日")
+        time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 1.day).to_s
+      end
+      it "day after tomorrow" do
+        time = $jajp.parse("明後日")
+        time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 2.day).to_s
+      end
     end
-    it "next year" do
-      time = $jajp.parse("来年")
-      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 1.year).to_s
-    end
-    it "year after next" do
-      time = $jajp.parse("再来年")
-      time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 2.year).to_s
-    end
-    it "two monthes ago" do
-      time = $jajp.parse("先々月")
-      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 2.month).to_s
-    end
-    it "last month" do
-      time = $jajp.parse("先月")
-      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 1.month).to_s
-    end
-    it "this month" do
-      time = $jajp.parse("今月")
-      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 1.month).to_s
-    end
-    it "next month" do
-      time = $jajp.parse("来月")
-      time.to_s.should === (now(nil, nil, 1, 0, 0, 0) + 1.month).to_s
-    end
-    it "today" do
-      time = $jajp.parse("今日")
-      time.to_s.should === (now(nil, nil, nil, 0, 0, 0)).to_s
-    end
-    it "tomorrow" do
-      time = $jajp.parse("明日")
-      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 1.day).to_s
-    end
-    it "day after tomorrow" do
-      time = $jajp.parse("明後日")
-      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 2.day).to_s
-    end
-    it "yesterday" do
-      time = $jajp.parse("昨日")
-      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 1.day).to_s
-    end
-    it "day before yesterday" do
-      time = $jajp.parse("一昨日")
-      time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 2.day).to_s
-    end
-    it "numeric year after and absolute month" do
-      time = $jajp.parse("10年後の8月")
-      time.to_s.should === (now(nil, 8, 1, 0, 0, 0) + 10.year).to_s
-    end
-    it "numeric minute after" do
-      time = $jajp.parse("10分後")
-      time.to_s.should === (now + 10.minute).to_s
-    end
-    it "numeric day after" do
-      time = $jajp.parse("10日後")
-      time.to_s.should === (now + 10.day).to_s
-    end
-    it "tomorrow and absolute time" do
-      time = $jajp.parse("明日の10時")
-      time.to_s.should === (now(nil, nil, nil, 10, 0, 0) + 1.day).to_s
-    end
-    it "tomorrow and absolute hh:mm:ss" do
-      time = $jajp.parse("明日の10:20:30")
-      time.to_s.should === (now(nil, nil, nil, 10, 20, 30) + 1.day).to_s
-    end
-    it "tomorrow and afternoon" do
-      time = $jajp.parse("明日の午後5時")
-      time.to_s.should === (now(nil, nil, nil, 17, 0, 0) + 1.day).to_s
-    end
-    it "tomorrow and noon" do
-      time = $jajp.parse("明日の正午")
-      time.to_s.should === (now(nil, nil, nil, 12, 0, 0) + 1.day).to_s
-    end
-    it "numeric day after and absolute time" do
-      time = $jajp.parse("3日後の12時")
-      time.to_s.should === (now(nil, nil, nil, 12, 0, 0) + 3.day).to_s
-    end
-    it "numeric day after and absolute time" do
-      time = $jajp.parse("3日後の12時45分")
-      time.to_s.should === (now(nil, nil, nil, 12, 45, 0) + 3.day).to_s
-    end
-    it "numeric day after and absolute hh:mm:ss" do
-      time = $jajp.parse("3日後の12:45:55")
-      time.to_s.should === (now(nil, nil, nil, 12, 45, 55) + 3.day).to_s
-    end
-    it "numeric day after and relative time" do
-      time = $jajp.parse("3日12時間45分後")
-      time.to_s.should === (now + 3.day + 12.hour + 45.minute).to_s
-    end
-    it "half time after" do
-      time = $jajp.parse("1時間半後")
-      time.to_s.should === (now + 1.5.hour).to_s
-    end
-    it "half minute after" do
-      time = $jajp.parse("1分半後")
-      time.to_s.should === (now + 1.5.minute).to_s
-    end
-    it "half hour and half minute after" do
-      time = $jajp.parse("5時間半と1分半後")
-      time.to_s.should === (now + 5.5.hour + 1.5.minute).to_s
+
+    context "complex" do
+      it "numeric year after and absolute month" do
+        time = $jajp.parse("10年後の8月")
+        time.to_s.should === (now(nil, 8, 1, 0, 0, 0) + 10.year).to_s
+      end
+      it "numeric minute after" do
+        time = $jajp.parse("10分後")
+        time.to_s.should === (now + 10.minute).to_s
+      end
+      it "numeric day after" do
+        time = $jajp.parse("10日後")
+        time.to_s.should === (now + 10.day).to_s
+      end
+      it "tomorrow and absolute time" do
+        time = $jajp.parse("明日の10時")
+        time.to_s.should === (now(nil, nil, nil, 10, 0, 0) + 1.day).to_s
+      end
+      it "tomorrow and absolute hh:mm:ss" do
+        time = $jajp.parse("明日の10:20:30")
+        time.to_s.should === (now(nil, nil, nil, 10, 20, 30) + 1.day).to_s
+      end
+      it "tomorrow and afternoon" do
+        time = $jajp.parse("明日の午後5時")
+        time.to_s.should === (now(nil, nil, nil, 17, 0, 0) + 1.day).to_s
+      end
+      it "tomorrow and noon" do
+        time = $jajp.parse("明日の正午")
+        time.to_s.should === (now(nil, nil, nil, 12, 0, 0) + 1.day).to_s
+      end
+      it "numeric day after and absolute time" do
+        time = $jajp.parse("3日後の12時")
+        time.to_s.should === (now(nil, nil, nil, 12, 0, 0) + 3.day).to_s
+      end
+      it "numeric day after and absolute time" do
+        time = $jajp.parse("3日後の12時45分")
+        time.to_s.should === (now(nil, nil, nil, 12, 45, 0) + 3.day).to_s
+      end
+      it "numeric day after and absolute hh:mm:ss" do
+        time = $jajp.parse("3日後の12:45:55")
+        time.to_s.should === (now(nil, nil, nil, 12, 45, 55) + 3.day).to_s
+      end
+      it "numeric day after and relative time" do
+        time = $jajp.parse("3日12時間45分後")
+        time.to_s.should === (now + 3.day + 12.hour + 45.minute).to_s
+      end
+      it "half time after" do
+        time = $jajp.parse("1時間半後")
+        time.to_s.should === (now + 1.5.hour).to_s
+      end
+      it "half minute after" do
+        time = $jajp.parse("1分半後")
+        time.to_s.should === (now + 1.5.minute).to_s
+      end
+      it "half hour and half minute after" do
+        time = $jajp.parse("5時間半と1分半後")
+        time.to_s.should === (now + 5.5.hour + 1.5.minute).to_s
+      end
     end
   end
 end
