@@ -1,6 +1,6 @@
 # coding: utf-8
 
-require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
+require File.expand_path(File.dirname(__FILE__) + '../../../spec_helper')
 
 $jajp = Horai::JaJP.new
 
@@ -16,7 +16,7 @@ def now (year = nil, month = nil, day = nil, hour = nil, minute = nil, second = 
                Rational(9, 24))
 end
 
-describe Horai do
+describe Horai::JaJP do
   context 'normalize' do
     it "number" do
       $jajp.normalize('０１２３４').should === '01234'

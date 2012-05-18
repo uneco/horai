@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
     "lib/horai/parser.rb",
     "lib/horai/parser/ja_jp.rb",
     "lib/ja_number.rb",
-    "spec/horai_spec.rb",
+    "spec/horai/parser/ja_jp_spec.rb",
     "spec/spec_helper.rb"
   ]
   s.homepage = "http://github.com/wneko/horai"
