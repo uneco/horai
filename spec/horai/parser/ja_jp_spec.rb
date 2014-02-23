@@ -137,6 +137,10 @@ describe Horai::JaJP do
       $jajp.relative?("10時10分").should be_false
     end
     context "year" do
+      it "three years ago" do
+        time = $jajp.parse("一昨々年")
+        time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 3.year).to_s
+      end
       it "two years ago" do
         time = $jajp.parse("一昨年")
         time.to_s.should === (now(nil, 1, 1, 0, 0, 0) - 2.year).to_s
@@ -157,9 +161,17 @@ describe Horai::JaJP do
         time = $jajp.parse("再来年")
         time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 2.year).to_s
       end
+      it "in three years time" do
+        time = $jajp.parse("明明後年")
+        time.to_s.should === (now(nil, 1, 1, 0, 0, 0) + 3.year).to_s
+      end
     end
 
     context "month" do
+      it "three monthes ago" do
+        time = $jajp.parse("先々々月")
+        time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 3.month).to_s
+      end
       it "two monthes ago" do
         time = $jajp.parse("先々月")
         time.to_s.should === (now(nil, nil, 1, 0, 0, 0) - 2.month).to_s
@@ -180,9 +192,17 @@ describe Horai::JaJP do
         time = $jajp.parse("再来月")
         time.to_s.should === (now(nil, nil, 1, 0, 0, 0) + 2.month).to_s
       end
+      it "in three month times" do
+        time = $jajp.parse("再々来月")
+        time.to_s.should === (now(nil, nil, 1, 0, 0, 0) + 2.month).to_s
+      end
     end
 
     context "day" do
+      it "thre days ago" do
+        time = $jajp.parse("一昨々日")
+        time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 3.day).to_s
+      end
       it "day before yesterday" do
         time = $jajp.parse("一昨日")
         time.to_s.should === (now(nil, nil, nil, 0, 0, 0) - 2.day).to_s
@@ -202,6 +222,10 @@ describe Horai::JaJP do
       it "day after tomorrow" do
         time = $jajp.parse("明後日")
         time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 2.day).to_s
+      end
+      it "in three days time" do
+        time = $jajp.parse("明々後日")
+        time.to_s.should === (now(nil, nil, nil, 0, 0, 0) + 3.day).to_s
       end
     end
 
