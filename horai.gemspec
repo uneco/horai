@@ -24,7 +24,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'rspec', '~> 2.8.0'
   spec.add_development_dependency 'rdoc', '~> 3.12'
-  spec.add_development_dependency 'jeweler', '~> 1.8.3'
   spec.add_development_dependency 'guard-shell', '>= 0'
   spec.add_development_dependency 'guard-rspec', '>= 0'
   spec.add_development_dependency 'pry', '>= 0'
