@@ -4,18 +4,6 @@ require 'spec_helper'
 
 $jajp = Horai::JaJP.new
 
-def now (year = nil, month = nil, day = nil, hour = nil, minute = nil, second = nil)
-  @now ||= $jajp.now
-
-  DateTime.new(year   || @now.year,
-               month  || @now.month,
-               day    || @now.day,
-               hour   || @now.hour,
-               minute || @now.minute,
-               second || @now.second,
-               Rational(9, 24))
-end
-
 describe Horai::JaJP do
   context 'normalize' do
     it "number" do
