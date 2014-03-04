@@ -1,6 +1,4 @@
-# coding: utf-8
-
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in rubo.gemspec
+# Specify your gem's dependencies in horai.gemspec
 gemspec

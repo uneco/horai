@@ -1,17 +1,16 @@
-# coding: utf-8
-
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+require 'horai/version'
 
 Gem::Specification.new do |spec|
-  spec.name        = 'horai'
-  spec.version     = '0.7.1'
-  spec.authors     = ['AOKI Yuuto']
-  spec.email       = ['aoki@u-ne.co']
-  spec.summary     = %q{Derive DateTime from Time expression with Natural language}
-  spec.description = %q{Derive DateTime from Time expression with Natural language (STILL ONLY IN JAPANESE)}
-  spec.homepage    = 'http://github.com/wneko/horai'
-  spec.licenses    = 'MIT'
+  spec.name          = 'horai'
+  spec.version       = Horai::VERSION
+  spec.authors       = ['uneco', 'mitukiii']
+  spec.email         = ['aoki@limbate.com']
+  spec.summary       = 'Derive DateTime from Time expression with Natural language (currently, Japanese only)'
+  spec.description   = 'Horai は日本語の時刻表現をパースし、DateTime型に変換することを目標としている Gem です。(beta) '
+  spec.homepage      = ''
+  spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
@@ -22,9 +21,10 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'activesupport', '>= 3.0.0'
   spec.add_runtime_dependency 'rparsec-ruby19', '>= 1.0'
 
-  spec.add_development_dependency 'bundler', '~> 1.5'
+  spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec'
   spec.add_development_dependency 'simplecov'
   spec.add_development_dependency 'yard'
+  spec.add_development_dependency 'timecop'
 end
