@@ -36,11 +36,6 @@ module Horai
     def register_filters
     end
 
-    def now
-      @now ||= DateTime.now
-      @now.dup
-    end
-
     def filters
       return @filters if @filters
       register_filters
@@ -59,10 +54,9 @@ module Horai
       text
     end
 
-    def parse(text)
+    def parse(text, date = DateTime.now)
       normalized = normalize(text)
-      contexts = (normalized + "$").split(relative_keyword_patterns)
-      date = now
+      contexts = "#{normalized}$".split(relative_keyword_patterns)
 
       filtered = false
 
@@ -74,27 +68,22 @@ module Horai
         end
 
         filters.each do |filter|
-          if (matches = context.match(filter[:pattern])) && filter[mode]
-            date = filter[mode].call(normalized, matches, date)
+          context.gsub!(filter[:pattern]) do |match|
+            next match if filter[mode].nil?
+            date = filter[mode].call(normalized, $~, date)
             filtered = true unless filtered
+            ''
           end
         end
       end
-
-      @now = nil
 
       return nil unless filtered
       return date
     end
 
-    def year_normalize(year)
+    def year_normalize(year, reference_date)
       if year < 100
-        year_xx = (now.year / 100).to_i
-        if (year_xx - year).abs < 50
-          year += year_xx * 100
-        else
-          year += (year_xx - 1) * 100
-        end
+        year += (reference_date.year / 100) * 100
       end
       year
     end

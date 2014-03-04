@@ -5,7 +5,6 @@ require 'horai/parser/ja_jp'
 
 module Horai
   def self.parse(text)
-    @@instance ||= Horai::JaJP.new
-    @@instance.parse(text)
+    Horai::Parser::JaJP.new.parse(text)
   end
 end

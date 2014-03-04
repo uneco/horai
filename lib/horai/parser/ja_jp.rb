@@ -3,11 +3,9 @@
 require 'horai/parser'
 
 module Horai
-  class JaJP < Parser
-    NORMALIZE_FROM = '０-９ａ-ｚＡ-Ｚ：'
-    NORMALIZE_TO   = '0-9a-zA-Z:'
-
-    AFTERNOON_PATTERN = (/午後|ごご|夜|よる|(?<![a-z])pm(?![a-z])/i)
+  class Parser::JaJP < Parser
+    NORMALIZE_FROM = '０-９ａ-ｚＡ-Ｚ：'.freeze
+    NORMALIZE_TO   = '0-9a-zA-Z:'.freeze
 
     def register_filters
       dd = DATE_DELIMITER
@@ -15,15 +13,15 @@ module Horai
 
       # 年 (絶対)
       filter /(\d+)年/, :absolute do |text, matches, date|
-        year = year_normalize(matches[1].to_i)
+        year = year_normalize(matches[1].to_i, date)
         truncate_time(datetime_delta(date, year: year, month: 1, day: 1))
       end
 
-      filter /一昨[々昨]年|さきおととし|いっさくさくねん/, :absolute do |text, matches, date|
+      filter /1昨[々昨]年|さきおととし|いっさくさくねん/, :absolute do |text, matches, date|
         truncate_time(datetime_delta(date - 3.year, month: 1, day: 1))
       end
 
-      filter /一昨年|おととし|いっさくねん/, :absolute do |text, matches, date|
+      filter /1昨年|おととし|いっさくねん/, :absolute do |text, matches, date|
         truncate_time(datetime_delta(date - 2.year, month: 1, day: 1))
       end
 
@@ -35,16 +33,16 @@ module Horai
         truncate_time(datetime_delta(date, month: 1, day: 1))
       end
 
-      filter /来年|明年|らいねん|みょうねん/, :absolute do |text, matches, date|
-        truncate_time(datetime_delta(date + 1.year, month: 1, day: 1))
+      filter /明[々明]後年|みょうみょうごねん/, :absolute do |text, matches, date|
+        truncate_time(datetime_delta(date + 3.year, month: 1, day: 1))
       end
 
       filter /再来年|明後年|さらいねん|みょうごねん/, :absolute do |text, matches, date|
         truncate_time(datetime_delta(date + 2.year, month: 1, day: 1))
       end
 
-      filter /明[々明]後年|みょうみょうごねん/, :absolute do |text, matches, date|
-        truncate_time(datetime_delta(date + 3.year, month: 1, day: 1))
+      filter /来年|明年|らいねん|みょうねん/, :absolute do |text, matches, date|
+        truncate_time(datetime_delta(date + 1.year, month: 1, day: 1))
       end
 
       # 月 (絶対)
@@ -52,7 +50,7 @@ module Horai
         truncate_time(datetime_delta(date, month: matches[1].to_i, day: 1))
       end
 
-      filter /[先前][々先前]{3}月|せんせんせんげつ/, :absolute do |text, matches, date|
+      filter /[先前][々先前]{2}月|せんせんせんげつ/, :absolute do |text, matches, date|
         truncate_time(datetime_delta(date - 3.month, day: 1))
       end
 
@@ -68,16 +66,16 @@ module Horai
         truncate_time(datetime_delta(date, day: 1))
       end
 
-      filter /来月|らいげつ/, :absolute do |text, matches, date|
-        truncate_time(datetime_delta(date + 1.month, day: 1))
+      filter /再[々再]来月|ささらいげつ/, :absolute do |text, matches, date|
+        truncate_time(datetime_delta(date + 3.month, day: 1))
       end
 
       filter /再来月|来[々来]月|さらいげつ|らいらいげつ/, :absolute do |text, matches, date|
         truncate_time(datetime_delta(date + 2.month, day: 1))
       end
 
-      filter /再[々再]来月|ささらいげつ/, :absolute do |text, matches, date|
-        truncate_time(datetime_delta(date + 3.month, day: 1))
+      filter /来月|らいげつ/, :absolute do |text, matches, date|
+        truncate_time(datetime_delta(date + 1.month, day: 1))
       end
 
       # 日 (絶対)
@@ -85,11 +83,11 @@ module Horai
         truncate_time(datetime_delta(date, day: matches[1]))
       end
 
-      filter /一昨[々昨]日|さきおと[とつ]い|いっさくさくじつ/, :absolute do |text, matches, date|
+      filter /1昨[々昨]日|さきおと[とつ]い|いっさくさくじつ/, :absolute do |text, matches, date|
         truncate_time(date - 3.day)
       end
 
-      filter /一昨日|おと[とつ]い|いっさくじつ/, :absolute do |text, matches, date|
+      filter /1昨日|おと[とつ]い|いっさくじつ/, :absolute do |text, matches, date|
         truncate_time(date - 2.day)
       end
 
@@ -114,23 +112,23 @@ module Horai
       end
 
       # 月日表現 (絶対)
-      filter /(?<![\d\/-])(?<!\d)(\d{1,2})#{dd}(\d{1,2})(?!#{dd})/, :absolute do |text, matches, date|
+      filter /(?<![\d\/-])(?<!\d)(\d{1,2})#{dd}(\d{1,2})(?!\d)(?!#{dd})/, :absolute do |text, matches, date|
         truncate_time(datetime_delta(date, month: matches[1], day: matches[2]))
       end
 
       # 年月日表現 (絶対)
-      filter /(?<![\d\/-])(\d{1,2}|\d{4})#{dd}(\d{1,2})#{dd}(\d{1,2})(?!#{dd})/, :absolute do |text, matches, date|
-        year = year_normalize(matches[1].to_i)
+      filter /(?<![\d\/-])(\d{2}|\d{4})#{dd}(\d{1,2})#{dd}(\d{1,2})(?!\d)(?!#{dd})/, :absolute do |text, matches, date|
+        year = year_normalize(matches[1].to_i, date)
         truncate_time(datetime_delta(date, year: year, month: matches[2], day: matches[3]))
       end
 
       # 時分表現 (絶対)
-      filter /(?<![\d:])(\d{1,2})#{td}(\d{2})(?!#{td})/, :absolute do |text, matches, date|
+      filter /(?<![\d:])(\d{1,2})#{td}(\d{2})(?!\d)(?!#{td})/, :absolute do |text, matches, date|
         datetime_delta(date, hour: matches[1], minute: matches[2], second: 0)
       end
 
       # 時分秒表現 (絶対)
-      filter /(?<![\d:])(\d{1,2})#{td}(\d{2})#{td}(\d{2})(?!#{td})/, :absolute do |text, matches, date|
+      filter /(?<![\d:])(\d{1,2})#{td}(\d{2})#{td}(\d{2})(?!\d)(?!#{td})/, :absolute do |text, matches, date|
         datetime_delta(date, hour: matches[1], minute: matches[2], second: matches[3])
       end
 
