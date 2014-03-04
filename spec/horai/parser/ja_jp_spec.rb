@@ -6,6 +6,7 @@ describe Horai::Parser::JaJP do
   let (:parser) { Horai::Parser::JaJP.new }
 
   before do
+    ENV['TZ'] = 'JST'
     Timecop.freeze(1989, 9, 19)
   end
 
@@ -16,8 +17,7 @@ describe Horai::Parser::JaJP do
                  day    || reference.day,
                  hour   || reference.hour,
                  minute || reference.minute,
-                 second || reference.second,
-                 Rational(9, 24))
+                 second || reference.second)
   end
 
   context 'normalize' do
@@ -45,7 +45,7 @@ describe Horai::Parser::JaJP do
   end
 
   context 'parse absolute' do
-    let(:sample_date) { DateTime.new(2012, 4, 11, 12, 45, 30, Rational(9, 24)) }
+    let(:sample_date) { DateTime.new(2012, 4, 11, 12, 45, 30) }
     let(:sample_text) { sample_date.strftime('%Y年%m月%d日の%H時%M分%S秒') }
     it 'year, month, day, hour, minute, second' do
       time = parser.parse(sample_text)
